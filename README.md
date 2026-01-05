@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, i am komal 👋
 
 <!--
 **komal1001/komal1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
